@@ -33,3 +33,15 @@ cubo_invalido = CuboRubik()
 # Cambiamos la orientación de la esquina 0
 cubo_invalido.orientaciones_esquinas[0] = 1
 print(verificar_validez_configuracion(cubo_invalido))  
+
+# Este código es solo un ejemplo de cómo se podría verificar la validez de una configuración del cubo de Rubik utilizando congruencias.
+
+#Esta función, verificar_validez_configuracion, toma como entrada un objeto cubo que representa el cubo de Rubik 
+#con sus respectivas aristas, esquinas y orientaciones. La función verifica si la paridad de las aristas, la paridad 
+#de las esquinas, la suma de los giros de las aristas y la suma de los giros de las esquinas cumplen con las restricciones 
+#de congruencia. Si todas las condiciones se cumplen, la función devuelve True, indicando que la configuración del cubo es 
+#válida; de lo contrario, devuelve False.
+
+#Este código que he proporcionado no es una solución completa para resolver el cubo de Rubik. Por lo general, al solucionar el cubo de Rubik, 
+#yo empleo métodos y técnicas más sofisticadas, como la teoría de grupos y algoritmos específicos para resolver el cubo. Además, mi código necesita 
+#que previamente haya creado una representación del cubo de Rubik en Python, lo cual no está incluido aquí.
