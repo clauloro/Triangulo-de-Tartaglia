@@ -1,4 +1,5 @@
-# Cubo de Rubik
+# Triángulo de Tartaglia
+
 El cubo de Rubik se puede representar mediante estructuras algebraicas, específicamente 
 en la teoría de grupos. Esto permite a los matemáticos y a los aficionados al cubo de Rubik 
 analizar el rompecabezas de manera abstracta y encontrar patrones y técnicas para 
